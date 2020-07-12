@@ -1,0 +1,10 @@
+# Write a python program which accepts the radius of a circle from the user and computers area.
+#input command
+import math
+
+radius_of_the_circle = 1.1
+
+print("area of the circle = " + str(math.pi*radius_of_the_circle**2))
+
+# output display
+area of the circle = 3.8013271108436504
